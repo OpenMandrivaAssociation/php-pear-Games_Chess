@@ -5,11 +5,11 @@
 
 Summary:	%{_pearname} - construct and validate a logical chess game, does not display
 Name:		php-pear-%{_pearname}
-Version:	0.9.0
-Release:	%mkrel 7
+Version:	1.0.0
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
-Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
+Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 URL:		http://pear.php.net/package/Games_Chess/
 Requires(post): php-pear
 Requires(preun): php-pear
@@ -87,5 +87,3 @@ rm -rf %{buildroot}
 %{_datadir}/pear/%{_class}/*.php
 %{_datadir}/pear/%{_class}/%{_subclass}
 %{_datadir}/pear/packages/%{_pearname}.xml
-
-
