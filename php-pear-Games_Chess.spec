@@ -5,7 +5,7 @@
 
 Summary:	%{_pearname} - construct and validate a logical chess game, does not display
 Name:		php-pear-%{_pearname}
-Version:	1.0.0
+Version:	1.0.1
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
