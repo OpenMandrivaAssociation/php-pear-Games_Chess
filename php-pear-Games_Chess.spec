@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.1
-Release:	10
+Release:	11
 Summary:	Construct and validate a logical chess game, does not display
 License:	PHP License
 Group:		Development/PHP
