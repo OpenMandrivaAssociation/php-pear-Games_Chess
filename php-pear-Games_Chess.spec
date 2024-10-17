@@ -8,7 +8,7 @@ Release:	11
 Summary:	Construct and validate a logical chess game, does not display
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Games_Chess/
+URL:		https://pear.php.net/package/Games_Chess/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
